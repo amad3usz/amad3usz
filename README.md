@@ -12,4 +12,4 @@
 HTML | CSS | Bootstrap | React | Node.js | Express.js | MongoDB | VSC | GitHub
 
 ### Find Me At
-[Porfolio](www.amadeuszsepko.com) | [GitHub](https://github.com/amad3usz) | [LinkedIn](https://www.linkedin.com/in/amad3usz/) [Contact Me](mailto:a.sepko@gmail.com)
+[Porfolio](www.amadeuszsepko.com) | [GitHub](https://github.com/amad3usz) | [LinkedIn](https://www.linkedin.com/in/amad3usz/) | [Contact Me](mailto:a.sepko@gmail.com)
