@@ -1,4 +1,5 @@
-# AmadeuszSepko
+# Amadeusz Sepko
+### Front End Web Developer
 
 ### About me
 
@@ -8,7 +9,11 @@
 
 ### Tools and Languages
 
-HTML | CSS | React | Github | Node.js | Express.js | VSC | GitHub
+HTML | CSS | Bootstrap | React | Node.js | Express.js | MongoDB | VSC | GitHub
 
 ### Reach Me At
+[Website](www.amadeuszsepko.com)
 
+[GitHub](https://github.com/amad3usz)
+
+[LinkedIn](https://www.linkedin.com/in/amad3usz/)
