@@ -1,5 +1,4 @@
-# Amadeusz Sepko
-## Front End Web Developer
+# Amadeusz Sepko - Front End Web Developer
 
 
 ### About Me
